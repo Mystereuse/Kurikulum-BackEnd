@@ -1,0 +1,41 @@
+JIKA ingin membuat nasi goreng
+
+     MAKA siapkan bahan terlebih dahulu seperti nasi putih & bahan lainnya
+     
+AKHIR-JIKA
+
+JIKA bahan sudah siap 
+     
+     MAKA masukan bumbu nasi goreng kedalam penggorengan lalu aduk
+     
+AKHIR-JIKA
+
+KETIKA bumbu sudah mulai mengeluarkan wangi 
+
+     MAKA masukan nasi putih kedalam penggorengan
+     
+AKHIR-KETIKA
+
+JIKA nasi sudah masuk ke penggorengan
+
+     MAKA aduk nasi dengan rata dan perlahan agar tercampur rata dengan bumbu
+     
+AKHIR-JIKA
+
+KETIKA nasi sudah tercampur rata dengan bumbu
+
+     MAKA masukan telur supaya cita rasanya makin enak
+     
+AKHIR-KETIKA
+
+JIKA sudah diaduk rata, bisa kalian tambah kecap atau yang lainnya
+
+     MAKA nasi goreng nya akan terlihat lebih menarik
+     
+AKHIR-JIKA 
+
+JIKA sekiranya sudah matang 
+
+      MAKA siapkan piring dan tuangkan lalu nasi goreng siap di santap
+      
+AKHIR-JIKA

@@ -1,0 +1,41 @@
+JIKA kalian menduplikasi suatu kalimat
+      
+      MAKA drag kalimatnya lalu klik tombol ctrl + c
+
+AKHIR-JIKA
+
+KETIKA kalian salah memberikan suatu perintah 
+      
+      MAKA klik tombol ctrl + z
+
+AKHIR-KETIKA
+
+JIKA kalian menambahkan foto pada paragraf
+      
+      MAKA cari kolom insert, lalu cari kolom picture
+      
+AKHIR-JIKA
+
+JIKA kalian  menyimpan paragraf/tulisan yang kalian buat
+     
+     MAKA klik tombol ctrl + s
+     
+AKHIR-JIKA 
+
+KETIKA kalian terlanjur salah ketik sampai satu paragraf
+     
+     MAKA klik tombol ctrl + a lalu backspace untuk drag & menghapus semua tulisan yang salah
+      
+AKHIR-KETIKA
+
+KETIKA ingin print tugas mu di microsoft word 
+      
+      MAKA cari tombol "file" lalu klik dan cari perintah print
+      
+AKHIR-KETIKA
+
+JIKA ingin membuat gaya pada tulisan (font) 
+      
+      MAKA cari kolom font dan pilih font kesukaan kalian
+      
+AKHIR-JIKA
