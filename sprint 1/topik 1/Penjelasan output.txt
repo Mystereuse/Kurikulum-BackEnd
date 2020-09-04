@@ -1,0 +1,1 @@
+fungsi kode which untuk memberitahu lokasi sebuah direktori, jadi jika kalian menuliskan kode which maka akan muncul keterangan dari direktori yang kalian cari
