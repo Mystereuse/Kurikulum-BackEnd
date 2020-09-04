@@ -1,3 +1,5 @@
+SET microsoft word=open
+
 JIKA kalian ingin menduplikasi suatu kalimat
       
       MAKA drag kalimatnya lalu klik tombol ctrl + c
