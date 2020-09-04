@@ -1,4 +1,4 @@
-JIKA kalian menduplikasi suatu kalimat
+JIKA kalian ingin menduplikasi suatu kalimat
       
       MAKA drag kalimatnya lalu klik tombol ctrl + c
 
