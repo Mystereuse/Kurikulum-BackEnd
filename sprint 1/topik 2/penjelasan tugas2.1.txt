@@ -1,0 +1,7 @@
+kalo ada tanda && maka jika ingin hasilnya true, maka kedua nya harus true, kalo salah satu nya ada yang false maka otomatis hasilnya akan false
+
+jadi kalo tandanya || dan ada true didalamnya maka otomatis hasilnya akan true, seperti contoh difoto
+
+dan jika keduanya false maka otomatis hasilnya akan false
+
+jika tandanya ! maka hasilnyaakan berkebalikan, misal !false hasilnya akan true dan sebaliknya
