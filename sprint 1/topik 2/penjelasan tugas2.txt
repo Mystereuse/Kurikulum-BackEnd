@@ -1,0 +1,10 @@
+kalo misalkan ada tanda + berarti bilangan nya itu di jumlahkan/di tambah bilangannya, seperti contoh difoto nilai $d = 3 dan nilai $e = 2 maka jika di jumlahkanhasil nya integer 5
+
+kalo misalkan ada tanda == berarti membandingkan sebuah nilai, misal seperti di foto nilai $e = '2' nilai $f = 2 maka ketika kita bandingkan maka kedua nya sama sama sifatnya 2 dan hasilnya akan bool true
+
+kalo misalkan ada tanda === berarti tipe data dan nilainya, seperti contoh difoto nilai $e = '2' nilai $f = 2 maka tentu ada perbedaan dari kedunya yakni nilai $e ada tanda petik di nilainya, dan ini menghasilkan bool false
+
+kalo hasilnya NULL maka nilai tersebut tidak ada 
+
+kenapa hasil dari boolean nya false? karena tidak ada nilainya 
+kenapa hasil integernya 0? karena tidak ada jumlah data didalamnya
